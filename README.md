@@ -1,2 +1,3 @@
-# creative-workspace
-A digital space for ideas, storytelling, reflections &amp; creative explorations.
+# Creative Workspace
+
+A digital space for ideas, storytelling, reflections, and creative explorations.
